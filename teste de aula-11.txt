@@ -1,0 +1,2 @@
+Aula de abertura de arquivo
+o phyton é muito útil para arquivos

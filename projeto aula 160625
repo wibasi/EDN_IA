@@ -1,0 +1,25 @@
+projeto/  
+│  
+├── src/                # Código-fonte principal  
+│   ├── main.py         # (Python)  
+│   └── /components/    # (React/JS: componentes)  
+│  
+├── tests/              # Testes automatizados  
+│   ├── unit/           # Testes unitários  
+│   └── integration/    # Testes de integração  
+│  
+├── docs/               # Documentação detalhada  
+│   ├── api.md          # Documentação da API  
+│   └── diagrams/       # Diagramas de arquitetura  
+│  
+├── assets/             # Recursos estáticos  
+│   ├── images/         # Imagens  
+│   └── styles/         # CSS/SCSS  
+│  
+├── config/             # Arquivos de configuração  
+│   ├── settings.yaml   # Configs do projeto  
+│   └── database.env    # Variáveis de ambiente (não versionado!)  
+│  
+└── scripts/            # Scripts auxiliares  
+    ├── deploy.sh       # Script de deploy  
+    └── migrate_db.py   # Migração de banco de dados
